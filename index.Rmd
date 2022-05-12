@@ -163,7 +163,7 @@ axis(
   at = seq(0, 1000000, by = 200000),
   cex.axis = .7
 )
-```
+
 # Leyenda
 legend(
   x = "topleft",
@@ -172,5 +172,7 @@ legend(
   col = c("blue", "red", "green", "black"),
   lty = 1,
   cex = 0.7)
+```
+
 
 
